@@ -1,7 +1,9 @@
 # Flutter Backend Project
 
-This repository contains the backend for a Flutter application PHarma Gps for pharmay localisation. It is buit to handle simple api request and basic authentification for admins
-For the Flutter app go to : 
+This repository contains the backend for a Flutter application PHarma Gps for pharmay localisation. It is buit to handle simple api request and basic authentification for admins.
+For the Flutter app :
+git clone https://github.com/Ben20222021/pharmagps.git
+cd pharmagps
 
 ## 🚀 Features
 
